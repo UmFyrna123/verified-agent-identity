@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'UmFyrna123'
+        description: '0xUmFyrna123'
         required: true
         default: '0xUmFyrna123'
       agent_description:
